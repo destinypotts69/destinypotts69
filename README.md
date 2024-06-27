@@ -13,15 +13,9 @@ I'm a passionate AI researcher and developer with a strong background in machine
 - ⚡ **Fun fact:** I'm a big fan of sci-fi movies and love hiking in my free time
 
 ## 🛠️ Skills
-
-![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-333?style=flat&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-333?style=flat&logo=pytorch)
-![OpenCV](https://img.shields.io/badge/-OpenCV-333?style=flat&logo=opencv)
-![Scikit-Learn](https://img.shields.io/badge/-Scikit--Learn-333?style=flat&logo=scikit-learn)
-![Numpy](https://img.shields.io/badge/-Numpy-333?style=flat&logo=numpy)
-![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
-![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,sklearn,nextjs,react,django,fastapi,flask" />
+</p>
 
 ## 📌 Pinned Repositories
 
@@ -35,17 +29,13 @@ I'm a passionate AI researcher and developer with a strong background in machine
 
 ## 🔧 Projects
 
-### [Project 1: Image Classification with CNNs](https://github.com/destinypotts69/StyleCLIP)
-A deep learning project that classifies images using convolutional neural networks (CNNs).
+### [Project 1: Style Clip](https://github.com/destinypotts69/StyleCLIP)
 
-### [Project 2: Sentiment Analysis with LLMs](https://github.com/destinypotts69/Gender_Predictor)
-Using large language models to analyze and predict sentiment in text data.
+### [Project 2: Gender Predictor by Name](https://github.com/destinypotts69/Gender_Predictor)
 
-### [Project 3: Object Detection with YOLO](https://github.com/destinypotts69/SmartChange)
-Implementing the YOLO algorithm for real-time object detection.
+### [Project 3: Smart Change](https://github.com/destinypotts69/SmartChange)
 
-### [Project 4: Text Generation with GPT](https://github.com/destinypotts69/bangalore-house-prediction-ml-with-site)
-Generating human-like text using the GPT model.
+### [Project 4: Bangalore House Prediction ML with Site](https://github.com/destinypotts69/bangalore-house-prediction-ml-with-site)
 
 ## 📜 License
 
