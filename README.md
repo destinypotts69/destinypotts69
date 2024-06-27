@@ -4,6 +4,8 @@
 
 I'm a passionate AI researcher and developer with a strong background in machine learning, computer vision, and large language models. I love exploring new technologies and contributing to impactful projects.
 
+Please visit my [website](https://destinypotts69.github.io).
+
 ## 🚀 About Me
 
 - 🔭 **Current Focus:** Working on innovative AI projects and contributing to open-source communities
