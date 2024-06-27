@@ -23,36 +23,30 @@ I'm a passionate AI researcher and developer with a strong background in machine
 ![Pandas](https://img.shields.io/badge/-Pandas-333?style=flat&logo=pandas)
 ![Keras](https://img.shields.io/badge/-Keras-333?style=flat&logo=keras)
 
-## 📈 GitHub Stats
-
-![destinypotts69's GitHub stats](https://github-readme-stats.vercel.app/api?username=destinypotts69&show_icons=true&theme=dark)
-
 ## 📌 Pinned Repositories
 
-### [Awesome-Computer-Vision](https://github.com/destinypotts69/awesome-computer-vision)
-An extensive collection of resources, projects, and tutorials related to computer vision.
+### [Integrating a Machine Learning Model into a Web app](https://github.com/destinypotts69/Integrating-a-Machine-Learning-Model-into-a-Web-app)
 
-### [NLP-Projects](https://github.com/destinypotts69/nlp-projects)
-A series of projects and experiments with natural language processing and large language models.
-
-### [Machine-Learning-Tutorials](https://github.com/destinypotts69/machine-learning-tutorials)
-Tutorials and examples to help beginners get started with machine learning.
-
-### [AI-Research-Papers](https://github.com/destinypotts69/ai-research-papers)
-A curated list of AI research papers that I find interesting and impactful.
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=facefusion)](https://github.com/destinypotts69/facefusion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=Integrating-a-Machine-Learning-Model-into-a-Web-app)](https://github.com/destinypotts69/Integrating-a-Machine-Learning-Model-into-a-Web-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=openui)](https://github.com/destinypotts69/openui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=mindful-predictions)](https://github.com/destinypotts69/mindful-predictions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=placement_prediction)](https://github.com/destinypotts69/placement_prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=Terzo.ai)](https://github.com/destinypotts69/Terzo.ai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=imaginary-ai)](https://github.com/destinypotts69/imaginary-ai)
 
 ## 🔧 Projects
 
-### [Project 1: Image Classification with CNNs](https://github.com/destinypotts69/image-classification-cnn)
+### [Project 1: Image Classification with CNNs](https://github.com/destinypotts69/StyleCLIP)
 A deep learning project that classifies images using convolutional neural networks (CNNs).
 
-### [Project 2: Sentiment Analysis with LLMs](https://github.com/destinypotts69/sentiment-analysis-llms)
+### [Project 2: Sentiment Analysis with LLMs](https://github.com/destinypotts69/Gender_Predictor)
 Using large language models to analyze and predict sentiment in text data.
 
-### [Project 3: Object Detection with YOLO](https://github.com/destinypotts69/object-detection-yolo)
+### [Project 3: Object Detection with YOLO](https://github.com/destinypotts69/SmartChange)
 Implementing the YOLO algorithm for real-time object detection.
 
-### [Project 4: Text Generation with GPT](https://github.com/destinypotts69/text-generation-gpt)
+### [Project 4: Text Generation with GPT](https://github.com/destinypotts69/bangalore-house-prediction-ml-with-site)
 Generating human-like text using the GPT model.
 
 ## 📜 License
