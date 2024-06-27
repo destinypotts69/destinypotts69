@@ -25,15 +25,13 @@ I'm a passionate AI researcher and developer with a strong background in machine
 
 ## 📌 Pinned Repositories
 
-### [Integrating a Machine Learning Model into a Web app](https://github.com/destinypotts69/Integrating-a-Machine-Learning-Model-into-a-Web-app)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=facefusion)](https://github.com/destinypotts69/facefusion)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=Integrating-a-Machine-Learning-Model-into-a-Web-app)](https://github.com/destinypotts69/Integrating-a-Machine-Learning-Model-into-a-Web-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=openui)](https://github.com/destinypotts69/openui)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=mindful-predictions)](https://github.com/destinypotts69/mindful-predictions)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=placement_prediction)](https://github.com/destinypotts69/placement_prediction)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=Terzo.ai)](https://github.com/destinypotts69/Terzo.ai)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&theme=dark&repo=imaginary-ai)](https://github.com/destinypotts69/imaginary-ai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&repo=facefusion)](https://github.com/destinypotts69/facefusion)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&repo=Integrating-a-Machine-Learning-Model-into-a-Web-app)](https://github.com/destinypotts69/Integrating-a-Machine-Learning-Model-into-a-Web-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&repo=openui)](https://github.com/destinypotts69/openui)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&repo=mindful-predictions)](https://github.com/destinypotts69/mindful-predictions)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&repo=placement_prediction)](https://github.com/destinypotts69/placement_prediction)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&repo=Terzo.ai)](https://github.com/destinypotts69/Terzo.ai)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=destinypotts69&repo=imaginary-ai)](https://github.com/destinypotts69/imaginary-ai)
 
 ## 🔧 Projects
 
